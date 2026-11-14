@@ -1,3 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="SEC Network" group-title="Sports",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 571" group-title="Test",Channel 571
+http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
